@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sFVeilYH7+0R/viJZBnSeC3DA0cGk9EF4xCFKZTDqyhyKB2U5NFiONp3ymUlriCy0XqO/ZLXn6P7oCrDrpLB6g==",
+  "success": true,
+  "projectFilePath": "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.API\\LifeDotsV2.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rogelson\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Rogelson\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Rogelson\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rogelson\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rogelson\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rogelson\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

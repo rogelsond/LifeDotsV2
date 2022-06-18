@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "LifeDotsV2.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "LifeDotsV2.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LifeDotsV2.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LifeDotsV2.Application.dll": {}
+        }
+      },
+      "LifeDotsV2.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LifeDotsV2.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LifeDotsV2.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LifeDotsV2.Application/1.0.0": {
+      "type": "project",
+      "path": "../LifeDotsV2.Application/LifeDotsV2.Application.csproj",
+      "msbuildProject": "../LifeDotsV2.Application/LifeDotsV2.Application.csproj"
+    },
+    "LifeDotsV2.Domain/1.0.0": {
+      "type": "project",
+      "path": "../LifeDotsV2.Domain/LifeDotsV2.Domain.csproj",
+      "msbuildProject": "../LifeDotsV2.Domain/LifeDotsV2.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "LifeDotsV2.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Rogelson\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Infrastructure\\LifeDotsV2.Infrastructure.csproj",
+      "projectName": "LifeDotsV2.Infrastructure",
+      "projectPath": "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Infrastructure\\LifeDotsV2.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Rogelson\\.nuget\\packages\\",
+      "outputPath": "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Rogelson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Application\\LifeDotsV2.Application.csproj": {
+              "projectPath": "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Application\\LifeDotsV2.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

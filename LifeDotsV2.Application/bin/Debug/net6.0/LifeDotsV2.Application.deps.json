@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LifeDotsV2.Application/1.0.0": {
+        "dependencies": {
+          "LifeDotsV2.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LifeDotsV2.Application.dll": {}
+        }
+      },
+      "LifeDotsV2.Domain/1.0.0": {
+        "runtime": {
+          "LifeDotsV2.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LifeDotsV2.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LifeDotsV2.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

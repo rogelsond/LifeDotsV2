@@ -1,0 +1,17 @@
+F:\Projetos\AspNetCore6+Angular\LifeDotsV2\LifeDotsV2\LifeDotsV2.Infrastructure\bin\Debug\net6.0\LifeDotsV2.Infrastructure.deps.json
+F:\Projetos\AspNetCore6+Angular\LifeDotsV2\LifeDotsV2\LifeDotsV2.Infrastructure\bin\Debug\net6.0\LifeDotsV2.Infrastructure.dll
+F:\Projetos\AspNetCore6+Angular\LifeDotsV2\LifeDotsV2\LifeDotsV2.Infrastructure\bin\Debug\net6.0\LifeDotsV2.Infrastructure.pdb
+F:\Projetos\AspNetCore6+Angular\LifeDotsV2\LifeDotsV2\LifeDotsV2.Infrastructure\obj\Debug\net6.0\LifeDotsV2.Infrastructure.csproj.AssemblyReference.cache
+F:\Projetos\AspNetCore6+Angular\LifeDotsV2\LifeDotsV2\LifeDotsV2.Infrastructure\obj\Debug\net6.0\LifeDotsV2.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\AspNetCore6+Angular\LifeDotsV2\LifeDotsV2\LifeDotsV2.Infrastructure\obj\Debug\net6.0\LifeDotsV2.Infrastructure.AssemblyInfoInputs.cache
+F:\Projetos\AspNetCore6+Angular\LifeDotsV2\LifeDotsV2\LifeDotsV2.Infrastructure\obj\Debug\net6.0\LifeDotsV2.Infrastructure.AssemblyInfo.cs
+F:\Projetos\AspNetCore6+Angular\LifeDotsV2\LifeDotsV2\LifeDotsV2.Infrastructure\obj\Debug\net6.0\LifeDotsV2.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Projetos\AspNetCore6+Angular\LifeDotsV2\LifeDotsV2\LifeDotsV2.Infrastructure\obj\Debug\net6.0\LifeDotsV2.Infrastructure.dll
+F:\Projetos\AspNetCore6+Angular\LifeDotsV2\LifeDotsV2\LifeDotsV2.Infrastructure\obj\Debug\net6.0\refint\LifeDotsV2.Infrastructure.dll
+F:\Projetos\AspNetCore6+Angular\LifeDotsV2\LifeDotsV2\LifeDotsV2.Infrastructure\obj\Debug\net6.0\LifeDotsV2.Infrastructure.pdb
+F:\Projetos\AspNetCore6+Angular\LifeDotsV2\LifeDotsV2\LifeDotsV2.Infrastructure\obj\Debug\net6.0\ref\LifeDotsV2.Infrastructure.dll
+F:\Projetos\AspNetCore6+Angular\LifeDotsV2\LifeDotsV2\LifeDotsV2.Infrastructure\bin\Debug\net6.0\LifeDotsV2.Application.dll
+F:\Projetos\AspNetCore6+Angular\LifeDotsV2\LifeDotsV2\LifeDotsV2.Infrastructure\bin\Debug\net6.0\LifeDotsV2.Domain.dll
+F:\Projetos\AspNetCore6+Angular\LifeDotsV2\LifeDotsV2\LifeDotsV2.Infrastructure\bin\Debug\net6.0\LifeDotsV2.Application.pdb
+F:\Projetos\AspNetCore6+Angular\LifeDotsV2\LifeDotsV2\LifeDotsV2.Infrastructure\bin\Debug\net6.0\LifeDotsV2.Domain.pdb
+F:\Projetos\AspNetCore6+Angular\LifeDotsV2\LifeDotsV2\LifeDotsV2.Infrastructure\obj\Debug\net6.0\LifeDotsV2.Infrastructure.csproj.CopyComplete
