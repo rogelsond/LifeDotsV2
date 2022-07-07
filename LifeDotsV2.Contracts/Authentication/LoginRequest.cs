@@ -7,8 +7,6 @@ using System.Threading.Tasks;
 namespace LifeDotsV2.Contracts.Authentication
 {
     public record LoginRequest(
-        string FirstName,
-        string LastName,
         string Email,
         string Password);
 

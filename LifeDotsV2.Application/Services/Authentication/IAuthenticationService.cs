@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace LifeDotsV2.Application.Services.Authentication
 {
-    internal class AuthenticationService
+    public interface IAuthenticationService
     {
+        AuthenticationResult Register(string firstName, string lastName, string email, string password);
+        AuthenticationResult Login(string email, string password);
     }
 }
