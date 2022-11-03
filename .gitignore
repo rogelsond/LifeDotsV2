@@ -400,4 +400,7 @@ FodyWeavers.xsd
 #Arquivos do projeto
 *.cache
 *.editorconfig
-LifeDotsV2.Infrastructure/obj/Debug/*
+
+# Ignore any files in /bin and /obj Folders
+**/bin/*
+**/obj/*
