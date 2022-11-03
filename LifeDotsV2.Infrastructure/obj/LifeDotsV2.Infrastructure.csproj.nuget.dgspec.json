@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Infrastructure\\LifeDotsV2.Infrastructure.csproj": {}
+    "F:\\Projetos\\LifeDotsV2\\rogelsond\\LifeDotsV2\\LifeDotsV2.Infrastructure\\LifeDotsV2.Infrastructure.csproj": {}
   },
   "projects": {
-    "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Application\\LifeDotsV2.Application.csproj": {
+    "F:\\Projetos\\LifeDotsV2\\rogelsond\\LifeDotsV2\\LifeDotsV2.Application\\LifeDotsV2.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Application\\LifeDotsV2.Application.csproj",
+        "projectUniqueName": "F:\\Projetos\\LifeDotsV2\\rogelsond\\LifeDotsV2\\LifeDotsV2.Application\\LifeDotsV2.Application.csproj",
         "projectName": "LifeDotsV2.Application",
-        "projectPath": "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Application\\LifeDotsV2.Application.csproj",
+        "projectPath": "F:\\Projetos\\LifeDotsV2\\rogelsond\\LifeDotsV2\\LifeDotsV2.Application\\LifeDotsV2.Application.csproj",
         "packagesPath": "C:\\Users\\Rogelson\\.nuget\\packages\\",
-        "outputPath": "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Application\\obj\\",
+        "outputPath": "F:\\Projetos\\LifeDotsV2\\rogelsond\\LifeDotsV2\\LifeDotsV2.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\Rogelson\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -31,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Domain\\LifeDotsV2.Domain.csproj": {
-                "projectPath": "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Domain\\LifeDotsV2.Domain.csproj"
+              "F:\\Projetos\\LifeDotsV2\\rogelsond\\LifeDotsV2\\LifeDotsV2.Domain\\LifeDotsV2.Domain.csproj": {
+                "projectPath": "F:\\Projetos\\LifeDotsV2\\rogelsond\\LifeDotsV2\\LifeDotsV2.Domain\\LifeDotsV2.Domain.csproj"
               }
             }
           }
@@ -52,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -61,22 +59,19 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Domain\\LifeDotsV2.Domain.csproj": {
+    "F:\\Projetos\\LifeDotsV2\\rogelsond\\LifeDotsV2\\LifeDotsV2.Domain\\LifeDotsV2.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Domain\\LifeDotsV2.Domain.csproj",
+        "projectUniqueName": "F:\\Projetos\\LifeDotsV2\\rogelsond\\LifeDotsV2\\LifeDotsV2.Domain\\LifeDotsV2.Domain.csproj",
         "projectName": "LifeDotsV2.Domain",
-        "projectPath": "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Domain\\LifeDotsV2.Domain.csproj",
+        "projectPath": "F:\\Projetos\\LifeDotsV2\\rogelsond\\LifeDotsV2\\LifeDotsV2.Domain\\LifeDotsV2.Domain.csproj",
         "packagesPath": "C:\\Users\\Rogelson\\.nuget\\packages\\",
-        "outputPath": "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Domain\\obj\\",
+        "outputPath": "F:\\Projetos\\LifeDotsV2\\rogelsond\\LifeDotsV2\\LifeDotsV2.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\Rogelson\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -109,7 +104,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -118,22 +114,19 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Infrastructure\\LifeDotsV2.Infrastructure.csproj": {
+    "F:\\Projetos\\LifeDotsV2\\rogelsond\\LifeDotsV2\\LifeDotsV2.Infrastructure\\LifeDotsV2.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Infrastructure\\LifeDotsV2.Infrastructure.csproj",
+        "projectUniqueName": "F:\\Projetos\\LifeDotsV2\\rogelsond\\LifeDotsV2\\LifeDotsV2.Infrastructure\\LifeDotsV2.Infrastructure.csproj",
         "projectName": "LifeDotsV2.Infrastructure",
-        "projectPath": "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Infrastructure\\LifeDotsV2.Infrastructure.csproj",
+        "projectPath": "F:\\Projetos\\LifeDotsV2\\rogelsond\\LifeDotsV2\\LifeDotsV2.Infrastructure\\LifeDotsV2.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Rogelson\\.nuget\\packages\\",
-        "outputPath": "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Infrastructure\\obj\\",
+        "outputPath": "F:\\Projetos\\LifeDotsV2\\rogelsond\\LifeDotsV2\\LifeDotsV2.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\Rogelson\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -149,8 +142,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Application\\LifeDotsV2.Application.csproj": {
-                "projectPath": "F:\\Projetos\\AspNetCore6+Angular\\LifeDotsV2\\LifeDotsV2\\LifeDotsV2.Application\\LifeDotsV2.Application.csproj"
+              "F:\\Projetos\\LifeDotsV2\\rogelsond\\LifeDotsV2\\LifeDotsV2.Application\\LifeDotsV2.Application.csproj": {
+                "projectPath": "F:\\Projetos\\LifeDotsV2\\rogelsond\\LifeDotsV2\\LifeDotsV2.Application\\LifeDotsV2.Application.csproj"
               }
             }
           }
@@ -170,7 +163,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -179,7 +173,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
