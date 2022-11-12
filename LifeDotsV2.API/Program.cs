@@ -1,12 +1,15 @@
-using LifeDotsV2.Application.Services.Authentication;
+using LifeDotsV2.Application;
+using LifeDotsV2.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 {
-    builder.Services.AddScoped<IAuthenticationService, AuthenticationService>();
+    builder.Services
+        .AddApplication()
+        .AddInfrastructure(builder.Configuration);
+
     builder.Services.AddControllers();
 }
 
-builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
