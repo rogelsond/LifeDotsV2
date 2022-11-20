@@ -396,11 +396,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-
-#Arquivos do projeto
-*.cache
-*.editorconfig
-
-# Ignore any files in /bin and /obj Folders
-**/bin/*
-**/obj/*
+/LifeDotsV2.API/obj/Debug/*
+/LifeDotsV2.API/obj/project.assets.json
+/LifeDotsV2.API/obj/LifeDotsV2.API.csproj.nuget.g.props
+/LifeDotsV2.API/obj/LifeDotsV2.API.csproj.nuget.dgspec.json
+/LifeDotsV2.API/obj/Debug/net6.0/LifeDotsV2.API.assets.cache
+/LifeDotsV2.API/obj/Debug/net6.0/LifeDotsV2.API.csproj.FileListAbsolute.txt
+/.vs/LifeDotsV2/v17/.suo
+/.vs/LifeDotsV2/DesignTimeBuild/.dtbcache.v2

@@ -25,10 +25,10 @@ namespace LifeDotsV2.API.Controllers
                 request.Password);
 
             var response = new AuthenticationResponse(
-                authResult.Id,
-                authResult.Email,
-                authResult.FirstName,
-                authResult.LastName,
+                authResult.User.Id,
+                authResult.User.Email,
+                authResult.User.FirstName,
+                authResult.User.LastName,
                 authResult.Token);
 
             return Ok(response);
@@ -42,13 +42,13 @@ namespace LifeDotsV2.API.Controllers
                 request.Password);
 
             var response = new AuthenticationResponse(
-                authResult.Id,
-                authResult.Email,
-                authResult.FirstName,
-                authResult.LastName,
+                authResult.User.Id,
+                authResult.User.Email,
+                authResult.User.FirstName,
+                authResult.User.LastName,
                 authResult.Token);
 
-            return Ok(request);
+            return Ok(response);
         }
     }
 }

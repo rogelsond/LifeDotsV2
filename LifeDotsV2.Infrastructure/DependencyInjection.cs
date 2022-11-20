@@ -4,6 +4,8 @@ using LifeDotsV2.Infrastructure.Authentication;
 using LifeDotsV2.Infrastructure.Services;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Configuration;
+using LifeDotsV2.Application.Common.Interfaces.Persistence;
+using LifeDotsV2.Infrastructure.Persistence;
 
 namespace LifeDotsV2.Infrastructure
 {
@@ -17,6 +19,9 @@ namespace LifeDotsV2.Infrastructure
 
             services.AddSingleton<IJwtTokenGenerator, JwtTokenGenerator>();
             services.AddSingleton<IDateTimeProvider, DateTimeProvider>();
+
+            services.AddScoped<IUserRepository, UserRepository>();
+
             return services;
         }
     }
